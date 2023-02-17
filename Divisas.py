@@ -36,7 +36,6 @@ def pounds_dolars(amount):
     result = amount * tasa
     return result
 
-
 # Select currency to convert from
 currency = input("Elige entre las siguientes divisas: Euros, Libras o Dólares.")
 
